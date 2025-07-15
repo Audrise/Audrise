@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/Audrise">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Audrise&data=followers,repositories,stars,commits&theme=viridescent" alt="Widget"/>
+  </a>
+</p>
 
-<!--
-**Audrise/Audrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Audrise">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="My activity"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,linux,vscode" alt="lang"/>
+</p>
