@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,linux,vscode" alt="lang"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,php,git,linux,vscode" alt="lang"/>
 </p>
