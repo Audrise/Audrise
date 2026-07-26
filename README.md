@@ -7,8 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Just+a+hobbyist+who+writes+code.;Python+Enthusiast+%F0%9F%90%8D;Building+tools+and+learning+every+day)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 
-> **Just a hobbyist who writes code.**
-
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
 Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
 
