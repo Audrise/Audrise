@@ -40,8 +40,6 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql" alt="lang"/>
 
-<br>
-
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,github,git" alt="lang"/>
