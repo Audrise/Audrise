@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Just+a+hobbyist+who+writes+code.;Python+Enthusiast+%F0%9F%90%8D;Building+tools+and+learning+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Just+a+hobbyist+who+writes+code.;Python+Enthusiast+%F0%9F%90%8D;Building+tools+and+learning+every+day)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
