@@ -14,7 +14,6 @@ Most of my work is driven by curiosity, continuous learning, and the joy of crea
 
 I believe that every line of code is an opportunity to learn something new and improve a little more than yesterday.
 
-
 <table>
   <tr>
     <td>💻</td>
@@ -44,6 +43,8 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,github,git" alt="lang"/>
 
+<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,6 +52,8 @@ I believe that every line of code is an opportunity to learn something new and i
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="My activity"/>
   </a>
 </p>
+
+<br>
 
 ## 🏆 Achievements
 
