@@ -51,7 +51,7 @@ I believe that every line of code is an opportunity to learn something new and i
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="48" title="Quickdraw"/>
 </div>
 
-<br>
+##
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began,;Audrise+is+why+I+keep+rising."/>
