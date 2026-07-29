@@ -4,9 +4,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Just+a+hobbyist+who+writes+code.;Python+Enthusiast+%F0%9F%90%8D;Building+tools+and+learning+every+day)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
-
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
 Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
 
@@ -32,7 +30,6 @@ I believe that every line of code is an opportunity to learn something new and i
 </table>
 
 ## 🛠️ Tech Stack
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql" alt="lang"/>
@@ -42,7 +39,6 @@ I believe that every line of code is an opportunity to learn something new and i
 <img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,github,git" alt="lang"/>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Audrise">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="My activity"/>
@@ -50,7 +46,6 @@ I believe that every line of code is an opportunity to learn something new and i
 </p>
 
 ## 🏆 Achievements
-
 <div align="center">
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="48" title="Pair Extraordinaire" />
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48" title="Quickdraw" />
@@ -59,6 +54,4 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <br>
 
-<div align="center">
-  <i>Audris is where I began -- Audrise is why I keep rising.</i>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began.;Audrise+is+why+I+keep+rising.)](https://git.io/typing-svg)
