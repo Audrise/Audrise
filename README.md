@@ -43,16 +43,6 @@ I believe that every line of code is an opportunity to learn something new and i
   </a>
 </p>
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="48" title="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="48" title="Pair Extraordinaire"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48" title="YOLO"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="48" title="Quickdraw"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began,;Audrise+is+why+I+keep+rising."/>
 </div>
