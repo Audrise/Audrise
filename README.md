@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/Audrise">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Audrise&data=followers,repositories,stars,commits&theme=viridescent" alt="Widget"/>
-  </a>
-</p>
+<a href="https://github.com/Audrise">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Audrise&data=followers,repositories,stars,commits&theme=viridescent" alt="Widget"/>
+</a>
 
 ## 👨‍💻 About Me
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
@@ -55,4 +53,4 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began.;Audrise+is+why+I+keep+rising"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1&speed=35&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began,;Audrise+is+why+I+keep+rising."/>
