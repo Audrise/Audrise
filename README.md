@@ -45,7 +45,6 @@ I believe that every line of code is an opportunity to learn something new and i
 
 ## 🏆 Achievements
 <div align="center">
-  <br>
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="48" title="Pull Shark"/>
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="48" title="Pair Extraordinaire"/>
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48" title="YOLO"/>
