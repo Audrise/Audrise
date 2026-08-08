@@ -1,7 +1,3 @@
-<a href="https://github.com/Audrise">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Audrise&data=followers,repositories,stars,commits&theme=viridescent" alt="Widget"/>
-</a>
-
 ## 👨‍💻 About Me
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
 Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
