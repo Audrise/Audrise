@@ -30,7 +30,7 @@ I believe that every line of code is an opportunity to learn something new and i
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,github,git" alt="lang"/>
+<img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,nodejs,github,git" alt="lang"/>
 
 ## 📊 GitHub Stats
 <p align="center">
