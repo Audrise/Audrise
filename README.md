@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 🚀 About Me
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
 Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
 
@@ -6,7 +6,7 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <table>
   <tr>
-    <td>💻</td>
+    <td>🛠️</td>
     <td>Hobbyist <strong>Software Developer</strong></td>
   </tr>
   <tr>
@@ -14,7 +14,7 @@ I believe that every line of code is an opportunity to learn something new and i
     <td>Mainly working with <strong>Python</strong> and exploring its ecosystem</td>
   </tr>
   <tr>
-    <td>🛠️</td>
+    <td>💡</td>
     <td>Building tools, automation scripts, and experimenting with new ideas</td>
   </tr>
   <tr>
@@ -23,16 +23,16 @@ I believe that every line of code is an opportunity to learn something new and i
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql" alt="lang"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql,markdown" alt="lang"/>
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,nodejs,github,git" alt="lang"/>
+<img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,nodejs,github,git,nginx" alt="lang"/>
 
-## 📊 GitHub Stats
+## 📌 GitHub Stats
 <p align="center">
   <a href="https://github.com/Audrise">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="My activity"/>
