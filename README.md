@@ -35,7 +35,10 @@ I believe that every line of code is an opportunity to learn something new and i
 ## 📌 GitHub Stats
 <p align="center">
   <a href="https://github.com/Audrise">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="My activity"/>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&days=14&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c"
+      alt="My activity"
+    />
   </a>
 </p>
 
