@@ -41,9 +41,7 @@ I believe that every line of code is an opportunity to learn something new and i
 ## 📌 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Audrise">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audrise&theme=vue-dark&hide_border=true" alt="Stats" width="100%"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audrise&theme=vue-dark&hide_border=true" alt="Stats" width="100%"/>
 </p>
 
 <div align="center">
