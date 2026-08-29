@@ -26,19 +26,39 @@ I believe that every line of code is an opportunity to learn something new and i
 ## ⚙️ Tech Stack
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql,markdown" alt="lang"/>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-**Frameworks & Tools**
+**Frameworks**
 
-<img src="https://skillicons.dev/icons?i=qt,laravel,vscode,anaconda,nodejs,github,git,nginx" alt="lang"/>
+<img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7">
+<img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3">
+<img src="https://img.shields.io/badge/ffmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 ## 📌 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/Audrise">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Audrise&theme=github-compact&days=14&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c"
-      alt="My activity"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audrise&theme=vue-dark&hide_border=true" alt="Stats" width="100%"/>
   </a>
 </p>
 
