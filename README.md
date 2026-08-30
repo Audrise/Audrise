@@ -40,9 +40,9 @@ I believe that every line of code is an opportunity to learn something new and i
 
 ## 📌 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audrise&theme=vue-dark&hide_border=true" alt="Stats" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&color=57FF8C&center=true&vCenter=true&width=800&lines=Audris+is+where+I+began,;Audrise+is+why+I+keep+rising."/>
