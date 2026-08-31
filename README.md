@@ -37,10 +37,10 @@ I believe that every line of code is an opportunity to learn something new and i
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/PyPI-ececec?style=for-the-badge&logo=pypi&logoColor=1f73b7"> <img src="https://img.shields.io/badge/pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=2f9fe3"> <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
-## 📌 GitHub Stats
+## 📌 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="90%"/>
 </div>
 
 <div align="center">
