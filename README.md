@@ -1,4 +1,11 @@
-## About Me
+<h1 align="center">
+  Hello, I'm Audrise
+  <br>
+  <a href="https://audrislabs.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/audrislabs.my.id-000?style=flat&&color=000" height="22" />
+  </a>
+</h1>
+
 I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
 Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
 
@@ -21,7 +28,7 @@ I believe that every line of code is an opportunity to learn something new and i
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="75%"/>
 </div>
 
 <div align="center">
