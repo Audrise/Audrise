@@ -28,7 +28,7 @@ I believe that every line of code is an opportunity to learn something new and i
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="75%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="85%"/>
 </div>
 
 <div align="center">
