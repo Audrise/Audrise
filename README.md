@@ -17,10 +17,4 @@ I enjoy building useful tools, experimenting with new ideas, and exploring diffe
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=bootstrap,laravel,qt,github,git,vercel,nginx" alt="F&T"/>
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="85%"/>
-  <h1 align="center"></h1>
-</div>
+<h1></h1>
