@@ -5,20 +5,18 @@
   <img src="https://img.shields.io/badge/audrislabs.my.id-000?style=flat&logo=safari&&color=000" height="22" />
 </h1>
 
-<p align="center"><b>Just a hobbyist who writes code.</b></p>
+<b>Just a hobbyist who writes code.</b><br>
 I enjoy building useful tools, experimenting with new ideas, and exploring different aspects of software development. Most of my projects start out of curiosity, driven by a desire to learn, solve everyday problems, and turn simple ideas into something functional.
-
-<!-- I believe that every line of code is an opportunity to learn something new and improve a little more than yesterday. -->
 
 ## Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php,mysql,md" alt="Lang" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php,mysql,md" alt="Lang"/>
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,laravel,qt,github,git,vercel,nginx" alt="F&T" />
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel,qt,github,git,vercel,nginx" alt="F&T"/>
 
 ## Activity
 
