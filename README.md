@@ -9,7 +9,6 @@
 I enjoy building useful tools, experimenting with new ideas, and exploring different aspects of software development. Most of my projects start out of curiosity, driven by a desire to learn, solve everyday problems, and turn simple ideas into something functional.
 
 ## Tech Stack
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php,mysql,md" alt="Lang"/>
@@ -17,4 +16,9 @@ I enjoy building useful tools, experimenting with new ideas, and exploring diffe
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=bootstrap,laravel,qt,github,git,vercel,nginx" alt="F&T"/>
-<h1></h1>
+
+## Contribution
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audrise&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000" alt="Stats" width="85%"/>
+  <h1 align="center"></h1>
+</div>
