@@ -14,10 +14,10 @@
 <p align="center">
 </p>
 
-<!-- I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
-Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch. -->
+I'm a Python developer who enjoys building useful tools, automating repetitive tasks, and turning ideas into practical projects.
+Most of my work is driven by curiosity, continuous learning, and the joy of creating something from scratch.
 
-<!-- I believe that every line of code is an opportunity to learn something new and improve a little more than yesterday. -->
+I believe that every line of code is an opportunity to learn something new and improve a little more than yesterday.
 
 ## Tech Stack
 
