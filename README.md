@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/audrislabs.my.id-000?style=flat&logo=safari&&color=000" height="22" />
 </h1>
 
-<b>Just a hobbyist who writes code.</b><br>
 I enjoy building useful tools, experimenting with new ideas, and exploring different aspects of software development. Most of my projects start out of curiosity, driven by a desire to learn, solve everyday problems, and turn simple ideas into something functional.
 
 ## Tech Stack
